@@ -1,0 +1,73 @@
+[
+  {
+    "id": 0,
+    "title": "Протеин Willmax Whey Protein Light 65% 1кг",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/willmax/wpc65/xprotein65baunti-800x800-400x400.webp.pagespeed.ic.cn9rc-pY5Z.webp",
+    "price": 290,
+    "rating": 5
+  },
+  {
+    "id": 1,
+    "title": "Протеин Optimum Nutrition 100% Whey Gold Standard 2270г",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/optimum/100__Whey_Gold_Standard_Optimum_Nutrition__2273_-400x400.webp",
+    "price": 1350,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Протеин Ultimate Nutrition Prostar Whey Protein 2390g",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/ultimate/prostarwhey-400x400.webp",
+    "price": 1290,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Протеин BSN Syntha-6 1320g",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/bsn/1bsnsyntha63lb-400x400.webp",
+    "price": 860,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "title": "Креатин Biotech 100% Creatine Monohydrate 500g(банка)",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/biotech/newdesign/CreatineMonohydrate_500g_1000ml_1-400x400.webp",
+    "price": 283,
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "title": "Креатин Optimum Nutrition Creatine Powder 600г",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/stories/optimum/6114-1-400x400.webp",
+    "price": 520,
+    "rating": 3
+  },
+  {
+    "id": 6,
+    "title": "BCAA Biotech BCAA+B6 100tab",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/biotech/BCAAB6_100-400x400.webp",
+    "price": 257,
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "title": "BCAA Olimp Labs BCAA Xplode 1000g",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/i/cb/ob/olimp-labs-bcaa-xplode-1000g-400x400.webp",
+    "price": 959,
+    "rating": 1
+  },
+  {
+    "id": 8,
+    "title": "Гейнер Ultimate Nutrition Muscle juice Revolution 5kg",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/ultimate/mjrevol21/xmjvanilla5kg-400x400.webp.pagespeed.ic.m7AT7LZlEz.webp",
+    "price": 1180,
+    "rating": 1
+  },
+  {
+    "id": 9,
+    "title": "Гейнер Optimum Nutrition Serious Mass 2727г",
+    "image": "https://5lb.ua/image/cache/catalog/image/cache/catalog/optimum/Optimum%20Nutrition%20Serious%20Mass27-400x400.webp",
+    "price": 840,
+    "rating": 1
+  }
+
+]

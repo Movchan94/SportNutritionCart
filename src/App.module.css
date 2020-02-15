@@ -1,0 +1,24 @@
+.appWrapper {
+    display: grid;
+
+    grid-template-areas:
+            'header header  header'
+            'article article article';
+    grid-template-rows: 120px 1fr ;
+    grid-template-columns: 15% 1fr 15%;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+
+}
+
+
+.appArticle {
+    grid-area: article;
+
+}
+.ProductCard {
+
+    border: solid lightsteelblue 2px;
+}
+

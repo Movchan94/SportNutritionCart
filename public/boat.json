@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "Лодка",
+    "image": "https://ibis.net.ua/published/publicdata/STORE/attachments/SC/products_pictures/9/8/f/katushka-shimano-stradic-2500hgfl-61bb_tmb.jpg",
+    "price": 5200,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Лодка2",
+    "image": "https://ibis.net.ua/published/publicdata/STORE/attachments/SC/products_pictures/5/2/f/21355708_53039662tmb.jpg",
+    "price": 840,
+    "rating": 1
+  }
+]
